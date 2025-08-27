@@ -35,7 +35,6 @@ CONSTANTE_NOTFOUND = "Not Found"
 
 # PEQUEÑOS
 
-# python repo_health.py sindresorhus ky
 # python repo_health.py EbookFoundation free-programming-books
 
 # MUY PEQUEÑOS 
